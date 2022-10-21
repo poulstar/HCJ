@@ -1,2 +1,0 @@
-# HCJ
-HTML, CSS, JavaScript 
